@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica5</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="saludar">saludar!</string>
+    <string name="img">imagen</string>
+</resources>
